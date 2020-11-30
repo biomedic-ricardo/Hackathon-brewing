@@ -1,4 +1,4 @@
-Id_Cliente,id_Agencia,Frecuencia,Vol_Entrega,lat,lon
+﻿Id_Cliente,id_Agencia,Frecuencia,Vol_Entrega,lat,lon
 1,A1,1,2,20.506052,-98.212377
 2,A1,1,17,20.458128,-98.221248
 3,A1,1,2,20.530427,-98.23686
